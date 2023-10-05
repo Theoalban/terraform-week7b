@@ -1,2 +1,2 @@
-# terraform-week7mod
-s3bDynamoDB
+# terraform-week7b
+splunl-vpc

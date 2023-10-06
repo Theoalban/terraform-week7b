@@ -1,2 +1,2 @@
 # terraform-week7b
-splunl-vpc
+splunk-vpc
